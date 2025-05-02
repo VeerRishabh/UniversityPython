@@ -1,7 +1,7 @@
 # Student Marks Calculation Application
 # Author: Veer Rishabh Manoram 24006521
 # Date: 17 March 2025
-# Enhanced Version with Input Validation and File Handling (No Libraries)
+# To upload a file just add the text file to the same folder as the program then you can use the file in the program
 
 # =============================== Part 1 ======================================
 
